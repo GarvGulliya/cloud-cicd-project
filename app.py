@@ -42,7 +42,7 @@ HTML = """
         <p>Containerized Deployment Pipeline</p>
         <p>Built by: <strong>Garv Gulliya</strong></p>
         <br>
-        <span class="badge">✅ Deployed Successfully</span>
+        <span class="badge">🚀 Version 2 — CI/CD Works!</span>
     </div>
 </body>
 </html>
